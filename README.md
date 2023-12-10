@@ -4,10 +4,12 @@ I created this project to work with react-query and zustand and be able to handl
 
 
 You can clone this repo using the URL below:
-```https://github.com/brunoocrv/state-manipulation.git```
+```
+https://github.com/brunoocrv/state-manipulation.git
+```
 
 To install the packages and run the server, use:
 ```
-	npm install && npm run dev
+npm install && npm run dev
 ```
 
